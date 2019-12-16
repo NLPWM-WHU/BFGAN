@@ -1,7 +1,7 @@
 # BFGAN
 Generating Behavior Features for Cold-Start Spam Review Detection
 
-The realization of the model in the paper.
+The implementation of the model in the paper.
 
 
 1）review_shuffle_w2v_c1w8-i20h0n5s100.txt  is a pre training model for text information trained by word2vec.
