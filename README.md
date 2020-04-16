@@ -22,6 +22,7 @@ In pinjie, there is the final result of spliced RBFs.
 
 # Cite
 If the codes help you, please cite our paper:
+
 [1]Xiaoya Tang,Tieyun Qian,Zhenni You. Generating Behavior Features for Cold-Start Spam Review Detection[J]. 2019DASFAA.
 
 [1]Xiaoya Tang,Tieyun Qian,Zhenni You. Generating Behavior Features for Cold-Start Spam Review Detection with Adversarial Learning[J]. Information Sciences,2020.
